@@ -1,0 +1,49 @@
+h1,h2,h3,h4,h5,h6{
+    color: brown;
+}
+
+p{
+    color: red;
+}
+
+.hated{
+    color: pink;
+}
+.jagons{
+    font-size: 40px;
+}
+#exception{
+    color: gold;
+}
+.even{
+    /*background*/
+    background-color: orange;
+    background-image: url(../images/pic.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 20% 20%;
+    background-attachment: fixed
+}
+.odd{
+    /*background*/
+    background-color: orange;
+    background-image: url(../images/pics.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 20% 20%;
+    background-attachment: fixed
+}
+p{
+    color: crimson;
+    text-align: center;
+    text-transform: capitalize;
+    text-indent: 50px;
+    letter-spacing: 40px;
+    word-spacing: 10px;
+    line-height: 40px;
+    font-size: 10px;
+    font-weight: 900px;
+    font-style: oblique;
+    font-style: comic;
+
+}
